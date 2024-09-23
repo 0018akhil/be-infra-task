@@ -80,7 +80,3 @@ If you encounter any issues, make sure to check the logs of the respective conta
 ```bash
 docker-compose logs <service-name>
 ```
-
-Replace `<service-name>` with the name of the service you want to inspect (e.g., `api1`, `api2`, `api3`, `postgres`, or `nginx`).
-
-Feel free to replace `<repository-url>` and `<repository-directory>` with your actual repository URL and directory name. Let me know if you need any modifications!

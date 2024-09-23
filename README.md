@@ -1,5 +1,3 @@
-## One
-
 # Project Setup Instructions
 
 This document provides instructions for setting up the project on your local machine.

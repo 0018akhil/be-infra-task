@@ -38,8 +38,8 @@ DB_DATABASE='mydatabase'
 Clone the project repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/0018akhil/be-infra-task
+cd be-infra-task
 ```
 
 ### Build and Run the Containers
